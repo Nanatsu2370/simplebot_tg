@@ -8,8 +8,8 @@
     "bridge"
   ],
   "success_url": "https://delta.chat",
-  "website": "https://github.com/Nenirey/simplebot_tg",
-  "repository": "https://github.com/Nenirey/simplebot_tg",
+  "website": "https://github.com/Nanatsu2370/simplebot_tg",
+  "repository": "https://github.com/Nanatsu2370/simplebot_tg",
   "env": {
     "ADMIN": {
       "description": "Your own email as bot administrator",
